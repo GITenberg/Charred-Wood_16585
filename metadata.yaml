@@ -21,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6060
     wikipedia: http://en.wikipedia.org/wiki/Francis_Kelley
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16585#Charred-Wood
 gutenberg_issued: '2005-08-23'
 gutenberg_type: Text
 identifiers:
